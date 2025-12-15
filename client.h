@@ -1,6 +1,5 @@
 #include <sys/socket.h>
 #include <netdb.h>
-#include <error.h>
 #include <syslog.h>
 #include <stdio.h>
 #include <unistd.h>
