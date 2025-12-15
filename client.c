@@ -6,7 +6,7 @@
 #include <time.h>
 #include <stdlib.h>   // for exit()
 #include <sys/stat.h> // ===== ADDED: for stat()
-#include <errno.h>
+
 
 // ===== PHASE 4: global socket for clean shutdown =====
 static int g_sockfd = -1;
